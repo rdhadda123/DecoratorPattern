@@ -1,4 +1,4 @@
-package DecoratorExercise;
+package DecoratorPattern;
 
 public class MushroomDecorator extends ToppingDecorator {
     public MushroomDecorator(Pizza pizza) {

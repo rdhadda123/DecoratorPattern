@@ -1,4 +1,4 @@
-package DecoratorExercise;
+package DecoratorPattern;
 
 public class MainClass {
     public MainClass(){
